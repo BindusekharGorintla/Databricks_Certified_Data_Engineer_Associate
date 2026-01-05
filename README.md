@@ -1,4 +1,4 @@
-# Databricks Certified Data_Engineer Associate
+# Databricks Certified Data Engineer Associate
 
 This repository provides an overview of how to use and the benefits of the **Databricks Lakehouse Platform** and its tools. It is designed to help data engineers, analysts, and scientists understand the architecture, workflows, and best practices for building scalable data solutions.
 
