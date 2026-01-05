@@ -1,19 +1,7 @@
-# Databricks_Certified_Data_Engineer_Associate
+# Databricks Certified Data_Engineer Associate
 
 This repository provides an overview of how to use and the benefits of the **Databricks Lakehouse Platform** and its tools. It is designed to help data engineers, analysts, and scientists understand the architecture, workflows, and best practices for building scalable data solutions.
 
----
-
-## 📚 Contents
-1. [Data Lakehouse](#data-lakehouse)
-2. [Data Science and Engineering Workspace](#data-science-and-engineering-workspace)
-3. [Delta Lake](#delta-lake)
-4. [ETL Pipelines with Apache Spark SQL and Python](#etl-pipelines-with-apache-spark-sql-and-python)
-5. [Incremental Data Processing](#incremental-data-processing)
-6. [Production Pipelines and Dashboards](#production-pipelines-and-dashboards)
-7. [Security Best Practices](#security-best-practices)
-
----
 
 ## 🏗 Data Lakehouse
 - **Architecture**: Combines the reliability of data warehouses with the scalability of data lakes.
